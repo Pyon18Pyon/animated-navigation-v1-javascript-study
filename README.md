@@ -6,4 +6,8 @@ The main focus on this project is to create a navigation for a Web site that has
 ## What it does?
 
 If we click on the hamburger button, we can launch and see that all of the NAV items are sliding in one by one. And when we close it, they slide out one by one as well.
-This navigation is also mobile responsive. 
+
+## Key features
+
+- Use of CSS variables to be able to set colors in a central location and change them for all elements at once.
+- Mobile responsive
